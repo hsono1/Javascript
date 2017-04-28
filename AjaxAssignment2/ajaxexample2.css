@@ -1,0 +1,41 @@
+
+
+.pokeImgContainer
+{
+	width: 700px;
+	height: auto;
+	display: inline-block;
+
+
+
+}
+
+.pokedex
+{
+
+	width: 200px;
+	height: 500px;
+	display: inline-block;
+	border: 20px solid red;
+	vertical-align: top;
+	padding-left: 10px;
+	position: fixed;
+}
+
+.pokedex h1
+{
+	text-align: center;
+}
+
+.pokedex img
+{
+	margin-left: 40px;
+}
+
+.imgcss
+{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+
+}

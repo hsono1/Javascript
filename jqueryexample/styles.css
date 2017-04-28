@@ -1,0 +1,96 @@
+.wrapper
+{
+	background-color: lightgrey;
+	width: 900px;
+	height: 600px;
+
+
+}
+
+.red{
+
+			color: red;
+}
+
+hr
+{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	border: 1px solid black;
+	width: 800px;
+
+
+}
+
+input[type="button"]
+{
+	background-color: yellow;
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 1px black;
+	margin-top: 60px;
+	vertical-align: top;
+}
+
+
+.container1
+{
+	width: 700px;
+	height: 80px;
+	display: inline-block;
+	margin-left: 50px;
+}
+
+h2
+{
+	display: block;
+	margin-bottom: 0px;
+	margin-left: 20px;
+
+
+
+}
+
+.redClass
+{
+	display: inline-block;
+
+
+}
+
+img{
+
+			width: 200px;
+			height: 200px;
+			display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
